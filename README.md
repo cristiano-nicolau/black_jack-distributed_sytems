@@ -52,4 +52,4 @@ python deck.py
 
 ## Authors
 
-* **Cristiano Nicolau** - [cristiano-nicolau]([https://github.com/cristiano-nicolau])
+* **Cristiano Nicolau** - [cristiano-nicolau](https://github.com/cristiano-nicolau)
